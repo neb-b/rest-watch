@@ -1,0 +1,13 @@
+{
+  "name": "watch",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Sean Yesmunt",
+  "license": "ISC",
+  "dependencies": {
+    "Promise": "^1.0.5",
+    "bluebird": "^3.4.7",
+    "socket.io": "^1.7.3"
+  }
+}
